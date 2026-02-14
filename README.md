@@ -15,5 +15,12 @@ A web-based application built using PHP and MySQL to manage client data securely
 - CSS
 - JavaScript
 
+## Screenshots
+
+![Login](screenshots/login.png)
+![Dashboard](screenshots/dashboard.png)
+![Clients](screenshots/clients.png)
+
+
 ## Author
 Sai Mahesh
